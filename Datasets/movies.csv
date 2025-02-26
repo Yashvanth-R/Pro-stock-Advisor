@@ -1,0 +1,11 @@
+movie_id,title,industry,release_year,imdb_rating,studio,language_id,budget,revenue,unit,currency
+101,Jailer,Kollywood,2023,7.1,Sun Pictures,1,200,600,Millions,INR
+102,Doctor Strange in the Multiverse of Madness,Hollywood,2022,7,Marvel Studios,5,200,954.8,Millions,USD
+103,Thor: The Dark World,Hollywood,2013,6.8,Marvel Studios,5,165,644.8,Millions,USD
+104,Pushpa:The Rise,Tollywood,2021,7.6,Mythri Movie Makers,5,200,360,Millions,INR
+105,Thor: Love and Thunder,Hollywood,2022,6.8,Marvel Studios,5,250,670,Millions,USD
+106,RRR,Tollywood,2022,7.8,DVV,1,600,1300,Millions,INR
+107,Dilwale Dulhania Le Jayenge,Bollywood,1995,8,Yash Raj Films,1,400,2000,Millions,INR
+108,3 Idiots,Bollywood,2009,8.4,Vinod Chopra Films,1,550,4000,Millions,INR
+109,Kabhi Khushi Kabhie Gham,Bollywood,2001,7.4,Dharma Productions,1,390,1360,Millions,INR
+110,K.G.F: Chapter 2,Sandalwood,2022,8.4,Hombale Films,3,100,12.5,Billions,INR
