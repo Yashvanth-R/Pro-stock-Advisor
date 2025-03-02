@@ -52,7 +52,7 @@ streamlit run main.py
 
 Second for running the IEEE paper chatbot 
 ```
-streamlit run main.py
+streamlit run main1.py
 ```
 
 If you get any error regarding the open_api key, please do enable your personal open api key through the https://platform.openai.com/api-keys platform.
