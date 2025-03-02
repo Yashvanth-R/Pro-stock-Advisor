@@ -28,7 +28,7 @@ git clone https://github.com/Yashvanth-R/Pro-stock-Advisor.git
 ```
 After download, Open the project using **Pycharm or VSCODE**. Then we have to create an python enviroment to run the program.
 
-#### create enviroment 
+#### Create Enviroment 
 First open the terminal or command line in the IDE.Then write the following code.
 ```
 python -m venv venv
