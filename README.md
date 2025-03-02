@@ -59,7 +59,7 @@ If you get any error regarding the open_api key, please do enable your personal 
 
 -----------------------------------------------------------
 
-## Contribute
+## Contribute :thumbsup:
 --------------------------------------
 If you want to contribute in this project feel free to do that.
 
